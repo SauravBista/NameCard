@@ -30,3 +30,5 @@ Run the Flask application:
 flask run
 
 Open your browser and navigate to http://localhost:5000 to view the website.
+
+#Template downloaded from Html5up: https://html5up.net/twenty
